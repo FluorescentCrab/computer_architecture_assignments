@@ -1,0 +1,109 @@
+loading program into memory...
+line number : 0 line int : 11
+line number : 1 line int : -1341784064
+line number : 2 line int : 952500226
+line number : 3 line int : -935460860
+line number : 4 line int : 311730176
+line number : 5 line int : 177471489
+line number : 6 line int : -402653184
+line number : 7 line int : 311730176
+line number : 8 line int : 445906945
+line number : 9 line int : -402653184
+Program loading complete!
+Starting the simulation...
+Current Instruction Count : 0
+Current PC :1
+Instruction : -1341784064 opcode : 22 rs1 : 0 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 1
+Current PC :2
+Instruction : 952500226 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 2 branchTarget : 393218
+Current Instruction Count : 2
+Current PC :3
+Instruction : -935460860 opcode : 25 rs1 : 0 rs2 : 31 rd : 0 immx : 4 branchTarget : -131068
+op1 : 0 op2 : 1
+Current Instruction Count : 3
+Current PC :4
+Instruction : 311730176 opcode : 2 rs1 : 10 rs2 : 10 rd : 10 immx : 40960 branchTarget : 1351680
+Current Instruction Count : 4
+Current PC :5
+Instruction : 177471489 opcode : 1 rs1 : 10 rs2 : 10 rd : 0 immx : 1 branchTarget : 1310721
+Current Instruction Count : 5
+Current PC :6
+Instruction : -402653184 opcode : 29 rs1 : 0 rs2 : 0 rd : 0 immx : 0 branchTarget : 0
+op1 : 0 op2 : 0
+
+Register File Contents:
+
+PC	: 7
+
+x0	: 0
+x1	: 65535
+x2	: 65535
+x3	: 5
+x4	: 0
+x5	: 0
+x6	: 0
+x7	: 0
+x8	: 0
+x9	: 0
+x10	: 1
+x11	: 0
+x12	: 0
+x13	: 0
+x14	: 0
+x15	: 0
+x16	: 0
+x17	: 0
+x18	: 0
+x19	: 0
+x20	: 0
+x21	: 0
+x22	: 0
+x23	: 0
+x24	: 0
+x25	: 0
+x26	: 0
+x27	: 0
+x28	: 0
+x29	: 0
+x30	: 0
+x31	: 1
+
+
+
+Main Memory Contents:
+
+0		: 11
+1		: -1341784064
+2		: 952500226
+3		: -935460860
+4		: 311730176
+5		: 177471489
+6		: -402653184
+7		: 311730176
+8		: 445906945
+9		: -402653184
+10		: 0
+11		: 0
+12		: 0
+13		: 0
+14		: 0
+15		: 0
+16		: 0
+17		: 0
+18		: 0
+19		: 0
+20		: 0
+21		: 0
+22		: 0
+23		: 0
+24		: 0
+25		: 0
+26		: 0
+27		: 0
+28		: 0
+29		: 0
+30		: 0
+
+
+Hash of the Processor State = -224294686

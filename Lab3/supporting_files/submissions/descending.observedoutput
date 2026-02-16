@@ -1,0 +1,1050 @@
+loading program into memory...
+line number : 0 line int : 40
+line number : 1 line int : 20
+line number : 2 line int : 50
+line number : 3 line int : 60
+line number : 4 line int : 80
+line number : 5 line int : 30
+line number : 6 line int : 10
+line number : 7 line int : 70
+line number : 8 line int : 8
+line number : 9 line int : 281423872
+line number : 10 line int : 285753344
+line number : 11 line int : -1341128696
+line number : 12 line int : -657457149
+line number : 13 line int : -402653184
+line number : 14 line int : 147324929
+line number : 15 line int : 147324929
+line number : 16 line int : -653262845
+line number : 17 line int : 147193857
+line number : 18 line int : -1069547526
+line number : 19 line int : -1328939008
+line number : 20 line int : -1324613632
+line number : 21 line int : -649330685
+line number : 22 line int : 151519233
+line number : 23 line int : -1069547527
+line number : 24 line int : 298741760
+line number : 25 line int : 684032
+line number : 26 line int : -1182400512
+line number : 27 line int : -1178075136
+line number : 28 line int : 151519233
+line number : 29 line int : -1069547533
+Program loading complete!
+Starting the simulation...
+Current Instruction Count : 0
+Current PC :9
+Instruction : 281423872 opcode : 2 rs1 : 3 rs2 : 3 rd : 3 immx : 12288 branchTarget : 405504
+Current Instruction Count : 1
+Current PC :10
+Instruction : 285753344 opcode : 2 rs1 : 4 rs2 : 4 rd : 4 immx : 16384 branchTarget : 540672
+Current Instruction Count : 2
+Current PC :11
+Instruction : -1341128696 opcode : 22 rs1 : 0 rs2 : 8 rd : 0 immx : 8 branchTarget : 1048584
+Current Instruction Count : 3
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 0 op2 : 8
+Current Instruction Count : 4
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 5
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 1 op2 : 8
+Current Instruction Count : 6
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 7
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 8
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 20
+Current Instruction Count : 9
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 10
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 11
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 2 op2 : 8
+Current Instruction Count : 12
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 13
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 14
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 50
+Current Instruction Count : 15
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 16
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 17
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 18
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 19
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 20
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 21
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 3 op2 : 8
+Current Instruction Count : 22
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 23
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 24
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 50 op2 : 60
+Current Instruction Count : 25
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 26
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 27
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 28
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 29
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 30
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 31
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 4 op2 : 8
+Current Instruction Count : 32
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 33
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 34
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 60 op2 : 80
+Current Instruction Count : 35
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 36
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 37
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 38
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 39
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 40
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 41
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 5 op2 : 8
+Current Instruction Count : 42
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 43
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 44
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 80 op2 : 30
+Current Instruction Count : 45
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 46
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 47
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 48
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 49
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 50
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 80 op2 : 10
+Current Instruction Count : 51
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 52
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 53
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 54
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 55
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 56
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 80 op2 : 70
+Current Instruction Count : 57
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 58
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 59
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 60
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 61
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 62
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 1 op2 : 8
+Current Instruction Count : 63
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 64
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 2 op2 : 8
+Current Instruction Count : 65
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 66
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 67
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 20 op2 : 40
+Current Instruction Count : 68
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 69
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 70
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 71
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 72
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 73
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 74
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 3 op2 : 8
+Current Instruction Count : 75
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 76
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 77
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 50
+Current Instruction Count : 78
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 79
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 80
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 81
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 82
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 83
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 84
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 4 op2 : 8
+Current Instruction Count : 85
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 86
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 87
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 50 op2 : 60
+Current Instruction Count : 88
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 89
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 90
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 91
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 92
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 93
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 94
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 5 op2 : 8
+Current Instruction Count : 95
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 96
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 97
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 60 op2 : 30
+Current Instruction Count : 98
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 99
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 100
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 101
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 102
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 103
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 60 op2 : 10
+Current Instruction Count : 104
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 105
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 106
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 107
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 108
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 109
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 60 op2 : 70
+Current Instruction Count : 110
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 111
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 112
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 113
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 114
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 115
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 116
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 117
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 118
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 119
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 2 op2 : 8
+Current Instruction Count : 120
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 121
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 3 op2 : 8
+Current Instruction Count : 122
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 123
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 124
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 20 op2 : 40
+Current Instruction Count : 125
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 126
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 127
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 128
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 129
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 130
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 131
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 4 op2 : 8
+Current Instruction Count : 132
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 133
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 134
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 50
+Current Instruction Count : 135
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 136
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 137
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 138
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 139
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 140
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 141
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 5 op2 : 8
+Current Instruction Count : 142
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 143
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 144
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 50 op2 : 30
+Current Instruction Count : 145
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 146
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 147
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 148
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 149
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 150
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 50 op2 : 10
+Current Instruction Count : 151
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 152
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 153
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 154
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 155
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 156
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 50 op2 : 60
+Current Instruction Count : 157
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 158
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 159
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 160
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 161
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 162
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 163
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 164
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 165
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 166
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 3 op2 : 8
+Current Instruction Count : 167
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 168
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 4 op2 : 8
+Current Instruction Count : 169
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 170
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 171
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 20 op2 : 40
+Current Instruction Count : 172
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 173
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 174
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 175
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 176
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 177
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 178
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 5 op2 : 8
+Current Instruction Count : 179
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 180
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 181
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 30
+Current Instruction Count : 182
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 183
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 184
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 185
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 186
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 187
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 10
+Current Instruction Count : 188
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 189
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 190
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 191
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 192
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 193
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 40 op2 : 50
+Current Instruction Count : 194
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 195
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 196
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 197
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 198
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 199
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 200
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 201
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 202
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 203
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 4 op2 : 8
+Current Instruction Count : 204
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 205
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 5 op2 : 8
+Current Instruction Count : 206
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 207
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 208
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 20 op2 : 30
+Current Instruction Count : 209
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 210
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 211
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 212
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 213
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 214
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 215
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 216
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 217
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 218
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 30 op2 : 10
+Current Instruction Count : 219
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 220
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 221
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 222
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 223
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 224
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 30 op2 : 40
+Current Instruction Count : 225
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 226
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 227
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 228
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 229
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 230
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 231
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 232
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 233
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 234
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 5 op2 : 8
+Current Instruction Count : 235
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 236
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 237
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 238
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 239
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 20 op2 : 10
+Current Instruction Count : 240
+Current PC :22
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 241
+Current PC :23
+Instruction : -1069547527 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -7 branchTarget : -7
+op1 : 0 op2 : 0
+Current Instruction Count : 242
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 243
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 244
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 245
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 20 op2 : 30
+Current Instruction Count : 246
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 247
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 248
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 249
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 250
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 251
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 252
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 253
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 254
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 255
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 6 op2 : 8
+Current Instruction Count : 256
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 257
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 258
+Current PC :19
+Instruction : -1328939008 opcode : 22 rs1 : 3 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 259
+Current PC :20
+Instruction : -1324613632 opcode : 22 rs1 : 4 rs2 : 6 rd : 0 immx : 0 branchTarget : 786432
+Current Instruction Count : 260
+Current PC :21
+Instruction : -649330685 opcode : 27 rs1 : 5 rs2 : 6 rd : 0 immx : 3 branchTarget : 786435
+op1 : 10 op2 : 20
+Current Instruction Count : 261
+Current PC :24
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 262
+Current PC :25
+Instruction : 684032 opcode : 0 rs1 : 0 rs2 : 5 rd : 7 immx : 28672 branchTarget : 684032
+Current Instruction Count : 263
+Current PC :26
+Instruction : -1182400512 opcode : 23 rs1 : 6 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 264
+Current PC :27
+Instruction : -1178075136 opcode : 23 rs1 : 7 rs2 : 4 rd : 0 immx : 0 branchTarget : 524288
+Current Instruction Count : 265
+Current PC :28
+Instruction : 151519233 opcode : 1 rs1 : 4 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 266
+Current PC :29
+Instruction : -1069547533 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -13 branchTarget : -13
+op1 : 0 op2 : 0
+Current Instruction Count : 267
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 268
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 269
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 270
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 7 op2 : 8
+Current Instruction Count : 271
+Current PC :15
+Instruction : 147324929 opcode : 1 rs1 : 3 rs2 : 4 rd : 0 immx : 1 branchTarget : 524289
+Current Instruction Count : 272
+Current PC :16
+Instruction : -653262845 opcode : 27 rs1 : 4 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 273
+Current PC :17
+Instruction : 147193857 opcode : 1 rs1 : 3 rs2 : 3 rd : 0 immx : 1 branchTarget : 393217
+Current Instruction Count : 274
+Current PC :18
+Instruction : -1069547526 opcode : 24 rs1 : 0 rs2 : 31 rd : 31 immx : -6 branchTarget : -6
+op1 : 0 op2 : 0
+Current Instruction Count : 275
+Current PC :12
+Instruction : -657457149 opcode : 27 rs1 : 3 rs2 : 8 rd : 0 immx : 3 branchTarget : 1048579
+op1 : 8 op2 : 8
+Current Instruction Count : 276
+Current PC :13
+Instruction : -402653184 opcode : 29 rs1 : 0 rs2 : 0 rd : 0 immx : 0 branchTarget : 0
+op1 : 0 op2 : 0
+
+Register File Contents:
+
+PC	: 14
+
+x0	: 0
+x1	: 65535
+x2	: 65535
+x3	: 8
+x4	: 8
+x5	: 10
+x6	: 20
+x7	: 10
+x8	: 8
+x9	: 0
+x10	: 0
+x11	: 0
+x12	: 0
+x13	: 0
+x14	: 0
+x15	: 0
+x16	: 0
+x17	: 0
+x18	: 0
+x19	: 0
+x20	: 0
+x21	: 0
+x22	: 0
+x23	: 0
+x24	: 0
+x25	: 0
+x26	: 0
+x27	: 0
+x28	: 0
+x29	: 0
+x30	: 0
+x31	: 0
+
+
+
+Main Memory Contents:
+
+0		: 80
+1		: 70
+2		: 60
+3		: 50
+4		: 40
+5		: 30
+6		: 20
+7		: 10
+8		: 8
+9		: 281423872
+10		: 285753344
+11		: -1341128696
+12		: -657457149
+13		: -402653184
+14		: 147324929
+15		: 147324929
+16		: -653262845
+17		: 147193857
+18		: -1069547526
+19		: -1328939008
+20		: -1324613632
+21		: -649330685
+22		: 151519233
+23		: -1069547527
+24		: 298741760
+25		: 684032
+26		: -1182400512
+27		: -1178075136
+28		: 151519233
+29		: -1069547533
+30		: 0
+
+
+Hash of the Processor State = 255541867

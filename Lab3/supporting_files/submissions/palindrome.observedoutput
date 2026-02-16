@@ -1,0 +1,252 @@
+loading program into memory...
+line number : 0 line int : 4567654
+line number : 1 line int : -1341784064
+line number : 2 line int : 298741760
+line number : 3 line int : 952631306
+line number : 4 line int : 268173312
+line number : 5 line int : 701366282
+line number : 6 line int : 33320960
+line number : 7 line int : 952500234
+line number : 8 line int : -524156933
+line number : 9 line int : -1341521920
+line number : 10 line int : -917635068
+line number : 11 line int : 311730176
+line number : 12 line int : 445906945
+line number : 13 line int : -402653184
+line number : 14 line int : 311730176
+line number : 15 line int : 177471489
+line number : 16 line int : -402653184
+Program loading complete!
+Starting the simulation...
+Current Instruction Count : 0
+Current PC :1
+Instruction : -1341784064 opcode : 22 rs1 : 0 rs2 : 3 rd : 0 immx : 0 branchTarget : 393216
+Current Instruction Count : 1
+Current PC :2
+Instruction : 298741760 opcode : 2 rs1 : 7 rs2 : 7 rd : 7 immx : 28672 branchTarget : 946176
+Current Instruction Count : 2
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 3
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 4
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 5
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 6
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 7
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 456765 op2 : 0
+Current Instruction Count : 8
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 9
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 10
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 11
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 12
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 13
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 45676 op2 : 0
+Current Instruction Count : 14
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 15
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 16
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 17
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 18
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 19
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 4567 op2 : 0
+Current Instruction Count : 20
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 21
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 22
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 23
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 24
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 25
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 456 op2 : 0
+Current Instruction Count : 26
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 27
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 28
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 29
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 30
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 31
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 45 op2 : 0
+Current Instruction Count : 32
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 33
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 34
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 35
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 36
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 37
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 4 op2 : 0
+Current Instruction Count : 38
+Current PC :3
+Instruction : 952631306 opcode : 7 rs1 : 3 rs2 : 4 rd : 0 immx : 10 branchTarget : 524298
+Current Instruction Count : 39
+Current PC :4
+Instruction : 268173312 opcode : 1 rs1 : 31 rs2 : 30 rd : 0 immx : 0 branchTarget : -262144
+Current Instruction Count : 40
+Current PC :5
+Instruction : 701366282 opcode : 5 rs1 : 7 rs2 : 7 rd : 0 immx : 10 branchTarget : 917514
+Current Instruction Count : 41
+Current PC :6
+Instruction : 33320960 opcode : 0 rs1 : 7 rs2 : 30 rd : 7 immx : 28672 branchTarget : -233472
+Current Instruction Count : 42
+Current PC :7
+Instruction : 952500234 opcode : 7 rs1 : 3 rs2 : 3 rd : 0 immx : 10 branchTarget : 393226
+Current Instruction Count : 43
+Current PC :8
+Instruction : -524156933 opcode : 28 rs1 : 3 rs2 : 0 rd : 31 immx : -5 branchTarget : 131067
+op1 : 0 op2 : 0
+Current Instruction Count : 44
+Current PC :9
+Instruction : -1341521920 opcode : 22 rs1 : 0 rs2 : 5 rd : 0 immx : 0 branchTarget : 655360
+Current Instruction Count : 45
+Current PC :10
+Instruction : -917635068 opcode : 25 rs1 : 5 rs2 : 7 rd : 0 immx : 4 branchTarget : 917508
+op1 : 4567654 op2 : 4567654
+Current Instruction Count : 46
+Current PC :14
+Instruction : 311730176 opcode : 2 rs1 : 10 rs2 : 10 rd : 10 immx : 40960 branchTarget : 1351680
+Current Instruction Count : 47
+Current PC :15
+Instruction : 177471489 opcode : 1 rs1 : 10 rs2 : 10 rd : 0 immx : 1 branchTarget : 1310721
+Current Instruction Count : 48
+Current PC :16
+Instruction : -402653184 opcode : 29 rs1 : 0 rs2 : 0 rd : 0 immx : 0 branchTarget : 0
+op1 : 0 op2 : 0
+
+Register File Contents:
+
+PC	: 17
+
+x0	: 0
+x1	: 65535
+x2	: 65535
+x3	: 0
+x4	: 0
+x5	: 4567654
+x6	: 0
+x7	: 4567654
+x8	: 0
+x9	: 0
+x10	: 1
+x11	: 0
+x12	: 0
+x13	: 0
+x14	: 0
+x15	: 0
+x16	: 0
+x17	: 0
+x18	: 0
+x19	: 0
+x20	: 0
+x21	: 0
+x22	: 0
+x23	: 0
+x24	: 0
+x25	: 0
+x26	: 0
+x27	: 0
+x28	: 0
+x29	: 0
+x30	: 4
+x31	: 4
+
+
+
+Main Memory Contents:
+
+0		: 4567654
+1		: -1341784064
+2		: 298741760
+3		: 952631306
+4		: 268173312
+5		: 701366282
+6		: 33320960
+7		: 952500234
+8		: -524156933
+9		: -1341521920
+10		: -917635068
+11		: 311730176
+12		: 445906945
+13		: -402653184
+14		: 311730176
+15		: 177471489
+16		: -402653184
+17		: 0
+18		: 0
+19		: 0
+20		: 0
+21		: 0
+22		: 0
+23		: 0
+24		: 0
+25		: 0
+26		: 0
+27		: 0
+28		: 0
+29		: 0
+30		: 0
+
+
+Hash of the Processor State = 155317940
